@@ -28,6 +28,10 @@ public class Jogador {
     public String getNom() {
         return nome;
     }
+    
+     public String getPos() {
+        return posicao;
+    }
 
     @Override
     public String toString() {
